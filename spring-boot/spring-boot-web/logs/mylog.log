@@ -1,0 +1,95 @@
+2018-05-04 10:45:05.313  INFO 15104 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 15104 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 10:45:05.324 DEBUG 15104 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 10:45:05.334  INFO 15104 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 10:45:11.835  INFO 15104 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.114 seconds (JVM running for 11.252)
+2018-05-04 10:45:15.620  INFO 15104 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------进入lombok-----------
+2018-05-04 10:45:15.621  INFO 15104 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------进入lombok-----------com.wqf.learn.lombok.TestLombok@6c6390cd
+2018-05-04 14:08:45.851  INFO 14508 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 14508 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 14:08:45.881 DEBUG 14508 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 14:08:45.884  INFO 14508 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 14:08:51.823  INFO 14508 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 7.54 seconds (JVM running for 10.613)
+2018-05-04 15:40:16.209  INFO 14460 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 14460 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 15:40:16.418 DEBUG 14460 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 15:40:16.423  INFO 14460 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 15:40:23.288  INFO 14460 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter初始化--->
+2018-05-04 15:40:25.499  INFO 14460 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 13.611 seconds (JVM running for 23.746)
+2018-05-04 15:40:26.104  INFO 14460 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------进入lombok-----------
+2018-05-04 15:40:26.106  INFO 14460 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------进入lombok-----------com.wqf.learn.lombok.TestLombok@70275b5e
+2018-05-04 15:40:50.102  INFO 14460 --- [http-nio-8070-exec-5] c.w.l.controller.test.TestController     : ----------进入lombok-----------
+2018-05-04 15:40:50.103  INFO 14460 --- [http-nio-8070-exec-5] c.w.l.controller.test.TestController     : ----------进入lombok-----------com.wqf.learn.lombok.TestLombok@c42039d
+2018-05-04 15:40:53.466  INFO 14460 --- [http-nio-8070-exec-7] c.w.l.controller.test.TestController     : ----------进入lombok-----------
+2018-05-04 15:40:53.466  INFO 14460 --- [http-nio-8070-exec-7] c.w.l.controller.test.TestController     : ----------进入lombok-----------com.wqf.learn.lombok.TestLombok@103693a6
+2018-05-04 15:42:43.856  INFO 16120 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 16120 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 15:42:43.993 DEBUG 16120 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 15:42:43.996  INFO 16120 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 15:42:48.957  INFO 16120 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter初始化--->
+2018-05-04 15:42:50.964  INFO 16120 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.613 seconds (JVM running for 12.063)
+2018-05-04 15:43:12.471  INFO 16120 --- [http-nio-8070-exec-3] c.w.l.controller.test.TestController     : ----------进入lombok-----------
+2018-05-04 15:43:12.473  INFO 16120 --- [http-nio-8070-exec-3] c.w.l.controller.test.TestController     : ----------进入lombok-----------com.wqf.learn.lombok.TestLombok@15b6e496
+2018-05-04 15:44:31.352  INFO 16032 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 16032 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 15:44:31.373 DEBUG 16032 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 15:44:31.380  INFO 16032 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 15:44:36.995  INFO 16032 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter初始化--->
+2018-05-04 15:44:38.994  INFO 16032 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 9.479 seconds (JVM running for 13.726)
+2018-05-04 15:44:44.678  INFO 16032 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@252c0ebf
+2018-05-04 15:44:44.752  INFO 16032 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------remoteAddr----127.0.0.1
+2018-05-04 15:44:52.839  INFO 16032 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@4d61cfc8
+2018-05-04 15:44:59.015  INFO 16032 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
+2018-05-04 15:45:09.105  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@3d79195c, age=[Ljava.lang.String;@3249749f}
+2018-05-04 15:45:09.763  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---k--->name
+2018-05-04 15:45:09.770  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@3d79195c
+2018-05-04 15:45:09.776  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---k--->age
+2018-05-04 15:45:09.781  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@3249749f
+2018-05-04 15:45:21.958  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
+2018-05-04 15:46:05.797  INFO 16032 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@4d61cfc8
+2018-05-04 15:46:05.798  INFO 16032 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
+2018-05-04 15:46:17.765  INFO 14972 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 14972 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 15:46:17.775 DEBUG 14972 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 15:46:17.778  INFO 14972 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 15:46:22.551  INFO 14972 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter初始化--->
+2018-05-04 15:46:24.368  INFO 14972 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.221 seconds (JVM running for 12.119)
+2018-05-04 15:46:41.622  INFO 14972 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@6703a399
+2018-05-04 15:46:41.683  INFO 14972 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
+2018-05-04 15:50:21.157  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@9184a00, age=[Ljava.lang.String;@718f98b4}
+2018-05-04 15:51:21.777  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@2f35a4b0, age=[Ljava.lang.String;@49a82aba}
+2018-05-04 15:51:22.444  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---k--->name
+2018-05-04 15:51:22.448  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@2f35a4b0
+2018-05-04 15:51:22.451  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---k--->age
+2018-05-04 15:51:22.455  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@49a82aba
+2018-05-04 15:51:29.423  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
+2018-05-04 16:02:02.373  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------访问url----/boot/test
+2018-05-04 16:02:05.847  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterName----name
+2018-05-04 16:02:10.414  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterValue----wangqingfan
+2018-05-04 16:02:11.786  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterName----age
+2018-05-04 16:02:14.162  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterValue----25
+2018-05-04 16:10:57.543  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@636fc046, age=[Ljava.lang.String;@4bf9c46}
+2018-05-04 16:12:21.756  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : -------访问url----/boot/test
+2018-05-04 16:12:21.756  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@760f2aa4, age=[Ljava.lang.String;@78e9dcf}
+2018-05-04 16:12:21.790  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:name---value:[wangqingfan]
+2018-05-04 16:12:21.790  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:age---value:[25]
+2018-05-04 16:12:40.921  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : -------访问url----/boot/test
+2018-05-04 16:12:40.921  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@6c62f450, age=[Ljava.lang.String;@314432ef}
+2018-05-04 16:12:40.930  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:name---value:[wangqingfan]--->
+2018-05-04 16:12:40.930  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:age---value:[25]--->
+2018-05-04 17:01:02.974  INFO 9772 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 9772 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 17:01:03.000 DEBUG 9772 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 17:01:03.004  INFO 9772 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 17:01:07.966  INFO 9772 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter初始化--->
+2018-05-04 17:01:09.848  INFO 9772 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.87 seconds (JVM running for 13.041)
+2018-05-04 17:02:01.202  INFO 9772 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------访问url----/boot/test/task
+2018-05-04 17:02:01.203  INFO 9772 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@647fee57
+2018-05-04 17:02:01.273  INFO 9772 --- [http-nio-8070-exec-1] c.w.l.c.test.TestTaskExecutorController  : ------------主方法执行----------
+2018-05-04 17:02:11.274  INFO 9772 --- [taskExecutor-1] c.w.l.c.test.TestTaskExecutorController  : -------------异步执行----------
+2018-05-04 17:02:18.623  INFO 9772 --- [http-nio-8070-exec-2] com.wqf.learn.filter.TestFilter          : -------访问url----/boot/test/task
+2018-05-04 17:02:18.624  INFO 9772 --- [http-nio-8070-exec-2] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@647fee57
+2018-05-04 17:02:18.721  INFO 9772 --- [http-nio-8070-exec-2] c.w.l.c.test.TestTaskExecutorController  : ------------主方法执行----------
+2018-05-04 17:02:19.723  INFO 9772 --- [taskExecutor-2] c.w.l.c.test.TestTaskExecutorController  : -------------异步执行----------
+2018-05-04 17:15:09.360  INFO 12460 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 12460 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
+2018-05-04 17:15:09.377 DEBUG 12460 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-04 17:15:09.380  INFO 12460 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2018-05-04 17:15:15.321  INFO 12460 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter初始化--->
+2018-05-04 17:15:17.876  INFO 12460 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 10.251 seconds (JVM running for 13.758)
+2018-05-04 17:15:24.098  INFO 12460 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------访问url----/boot/test/task/sayHello
+2018-05-04 17:15:24.098  INFO 12460 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@442e82dd
+2018-05-04 17:15:24.213  INFO 12460 --- [http-nio-8070-exec-1] c.w.l.t.c.TestTaskExecutorController     : -------同步执行方法结束--------
+2018-05-04 17:15:25.271  INFO 12460 --- [taskExecutor-1] c.w.l.t.serveice.AsyncService            : <---异步执行sayHello--->

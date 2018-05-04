@@ -1,0 +1,9 @@
+server:
+    port: 8070
+    servlet:
+        context-path: /boot
+logging: 
+    level: 
+        root: error
+        com.wqf.learn: debug
+    file: logs/mylog.log
