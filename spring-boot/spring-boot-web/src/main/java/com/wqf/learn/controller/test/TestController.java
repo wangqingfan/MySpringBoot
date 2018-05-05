@@ -24,14 +24,10 @@ public class TestController {
 	
 	@GetMapping
 	public String test(){
-		System.out.println("----成功-------");
-		return "成功";
+		System.out.println("test");
+		return "test";
 	}
 	
-	/**
-	 * 测试自定义配置
-	 * @return
-	 */
 	@GetMapping("/configuration")
 	public MyTestConfig configuration(){
 		return myTestConfig;
@@ -39,11 +35,10 @@ public class TestController {
 	
 	@GetMapping("/lombok")
 	public TestLombok lombok(){
-		log.info("----------进入lombok-----------");
 	//	testLombok.setAge("13");
 	//	testLombok.setName("aaa");
-		TestLombok build = TestLombok.builder().age("25").name("王庆凡").build();
-		log.info("----------进入lombok-----------"+build.toString());
+		TestLombok build = TestLombok.builder().age("25").name("锟斤拷锟届凡").build();
+		log.info("----------lombok-----------"+build.toString());
 		return build;
 	}
 	
@@ -52,4 +47,8 @@ public class TestController {
 		return TestLombok.builder().name(name).age(age).build();
 	}
 	
+	@GetMapping("/testNull")
+	public String testNull(){
+		return "success";
+	}
 }

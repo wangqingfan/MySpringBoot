@@ -19,15 +19,14 @@ import lombok.extern.slf4j.Slf4j;
 public class TestFilter implements Filter{
 
 	public void destroy() {
-		log.info("<---filterœ˙ªŸ--->");
+		log.info("<---filterÈîÄÊØÅ--->");
 	}
 
 	public void doFilter(ServletRequest request, ServletResponse response,
 			FilterChain chain) throws IOException, ServletException {
-		//¥Ú”°«Î«Û≤Œ ˝
 		HttpServletRequest req = (HttpServletRequest)request;
 		String url = req.getRequestURI();
-		log.info("-------∑√Œ url----"+url);
+		log.info("-------url----"+url);
 		/*Enumeration<String> parameterNames = req.getParameterNames();
 		while(parameterNames.hasMoreElements()){
 			String parameterName = parameterNames.nextElement();
@@ -44,7 +43,7 @@ public class TestFilter implements Filter{
 	}
 
 	public void init(FilterConfig arg0) throws ServletException {
-		log.info("<---filter≥ı ºªØ--->");
+		log.info("<---filterÂàùÂßãÂåñ--->");
 	}
 
 }
