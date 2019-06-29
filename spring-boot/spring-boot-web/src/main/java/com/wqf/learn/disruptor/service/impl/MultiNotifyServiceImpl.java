@@ -17,6 +17,7 @@ import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.stereotype.Service;
 
+import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
@@ -41,6 +42,11 @@ public class MultiNotifyServiceImpl implements MultiNotifyService, DisposableBea
     @Override
     public void afterPropertiesSet() throws Exception {
         log.info("------disruptor---多consumer---afterPropertiesSet----");
+        //线程池数要大于等于handler数，一个线程，只会执行一个handler，
+        // 但是disruptor认为传入线程池是一个过时方法，只要传入ThreadFactory就行
+        //传入ThreadFactory，项目初始化创建等于handler的线程数，一个Thread只会进入一个hanlder，
+        // 也就是每个handler尽量业务小，分解多，实现高吞吐
+        //final ExecutorService executorService = Executors.newFixedThreadPool(6);
         //Mutil 就是Disruptor内部使用了cas ，SINGLE是直接set，对于咱们应用层不需要改变
         disruptor = new Disruptor<NotifyEvent>(new NotifyEventFactory(), RING_BUFFER_SIZE, Executors.defaultThreadFactory(), ProducerType.MULTI, new BlockingWaitStrategy());
         disruptor.setDefaultExceptionHandler(new NotifyEventHandlerException());
@@ -52,6 +58,8 @@ public class MultiNotifyServiceImpl implements MultiNotifyService, DisposableBea
         final MultiNotifyEventHandler4 m4 = new MultiNotifyEventHandler4();
         final MultiNotifyEventHandler5 m5 = new MultiNotifyEventHandler5();
         final MultiNotifyEventHandler6 m6 = new MultiNotifyEventHandler6();
+        //在这也可以实现多消费者。在总入口m1处，新增个并行即可
+        //disruptor.handleEventsWith返回的是EventHandlerGroup对象，这个就是一个消费者组
         disruptor.handleEventsWith(m1);
         disruptor.after(m1).handleEventsWith(m2, m5);
         disruptor.after(m2).then(m4);
@@ -68,6 +76,7 @@ public class MultiNotifyServiceImpl implements MultiNotifyService, DisposableBea
     @Override
     public void sendMsg(String msg) {
         RingBuffer<NotifyEvent> ringBuffer = disruptor.getRingBuffer();
+        //每次发送的sequence都是自增的
         ringBuffer.publishEvent((event, sequence, data) -> event.setMessgae(data), msg);
     }
 }

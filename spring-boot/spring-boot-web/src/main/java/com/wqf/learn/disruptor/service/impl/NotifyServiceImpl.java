@@ -48,12 +48,12 @@ public class NotifyServiceImpl implements NotifyService, DisposableBean, Initial
     @Override
     public void sendNotify(String message) {
         RingBuffer<NotifyEvent> ringBuffer = disruptor.getRingBuffer();
-//        ringBuffer.publishEvent(new EventTranslatorOneArg<NotifyEvent,  String>() {
-//            @Override
-//            public void translateTo(NotifyEvent event, long sequence, String data) {
-//                event.setMessgae(data);
-//            }
-//        }, message);
-        ringBuffer.publishEvent((event, sequence, data) -> event.setMessgae(data), message);
+        ringBuffer.publishEvent(new EventTranslatorOneArg<NotifyEvent,  String>() {
+            @Override
+            public void translateTo(NotifyEvent event, long sequence, String data) {
+                System.out.println(sequence);
+                event.setMessgae(data);
+            }
+        }, message);
     }
 }

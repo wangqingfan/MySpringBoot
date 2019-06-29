@@ -20,12 +20,14 @@ import java.util.UUID;
 @NoArgsConstructor
 public class MultiNotifyEventHandler1 implements EventHandler<NotifyEvent>, WorkHandler<NotifyEvent> {
 
+    //WorkHandler
     @Override
     public void onEvent(NotifyEvent notifyEvent) throws Exception {
         System.out.println("handler1--接收到消息");
         this.onEvent(notifyEvent);
     }
 
+    //EventHandler
     @Override
     public void onEvent(NotifyEvent notifyEvent, long l, boolean b) throws Exception {
         System.out.println("handler1--"+notifyEvent.toString() + ">>>" + Thread.currentThread().toString());

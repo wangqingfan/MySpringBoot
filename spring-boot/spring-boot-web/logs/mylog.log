@@ -1,95 +1,992 @@
-2018-05-04 10:45:05.313  INFO 15104 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 15104 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 10:45:05.324 DEBUG 15104 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 10:45:05.334  INFO 15104 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 10:45:11.835  INFO 15104 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.114 seconds (JVM running for 11.252)
-2018-05-04 10:45:15.620  INFO 15104 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------
-2018-05-04 10:45:15.621  INFO 15104 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------com.wqf.learn.lombok.TestLombok@6c6390cd
-2018-05-04 14:08:45.851  INFO 14508 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 14508 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 14:08:45.881 DEBUG 14508 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 14:08:45.884  INFO 14508 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 14:08:51.823  INFO 14508 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 7.54 seconds (JVM running for 10.613)
-2018-05-04 15:40:16.209  INFO 14460 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 14460 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 15:40:16.418 DEBUG 14460 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 15:40:16.423  INFO 14460 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 15:40:23.288  INFO 14460 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter≥ı ºªØ--->
-2018-05-04 15:40:25.499  INFO 14460 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 13.611 seconds (JVM running for 23.746)
-2018-05-04 15:40:26.104  INFO 14460 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------
-2018-05-04 15:40:26.106  INFO 14460 --- [http-nio-8070-exec-1] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------com.wqf.learn.lombok.TestLombok@70275b5e
-2018-05-04 15:40:50.102  INFO 14460 --- [http-nio-8070-exec-5] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------
-2018-05-04 15:40:50.103  INFO 14460 --- [http-nio-8070-exec-5] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------com.wqf.learn.lombok.TestLombok@c42039d
-2018-05-04 15:40:53.466  INFO 14460 --- [http-nio-8070-exec-7] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------
-2018-05-04 15:40:53.466  INFO 14460 --- [http-nio-8070-exec-7] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------com.wqf.learn.lombok.TestLombok@103693a6
-2018-05-04 15:42:43.856  INFO 16120 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 16120 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 15:42:43.993 DEBUG 16120 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 15:42:43.996  INFO 16120 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 15:42:48.957  INFO 16120 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter≥ı ºªØ--->
-2018-05-04 15:42:50.964  INFO 16120 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.613 seconds (JVM running for 12.063)
-2018-05-04 15:43:12.471  INFO 16120 --- [http-nio-8070-exec-3] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------
-2018-05-04 15:43:12.473  INFO 16120 --- [http-nio-8070-exec-3] c.w.l.controller.test.TestController     : ----------Ω¯»Îlombok-----------com.wqf.learn.lombok.TestLombok@15b6e496
-2018-05-04 15:44:31.352  INFO 16032 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 16032 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 15:44:31.373 DEBUG 16032 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 15:44:31.380  INFO 16032 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 15:44:36.995  INFO 16032 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter≥ı ºªØ--->
-2018-05-04 15:44:38.994  INFO 16032 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 9.479 seconds (JVM running for 13.726)
-2018-05-04 15:44:44.678  INFO 16032 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@252c0ebf
-2018-05-04 15:44:44.752  INFO 16032 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------remoteAddr----127.0.0.1
-2018-05-04 15:44:52.839  INFO 16032 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@4d61cfc8
-2018-05-04 15:44:59.015  INFO 16032 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
-2018-05-04 15:45:09.105  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@3d79195c, age=[Ljava.lang.String;@3249749f}
-2018-05-04 15:45:09.763  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---k--->name
-2018-05-04 15:45:09.770  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@3d79195c
-2018-05-04 15:45:09.776  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---k--->age
-2018-05-04 15:45:09.781  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@3249749f
-2018-05-04 15:45:21.958  INFO 16032 --- [http-nio-8070-exec-5] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
-2018-05-04 15:46:05.797  INFO 16032 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@4d61cfc8
-2018-05-04 15:46:05.798  INFO 16032 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
-2018-05-04 15:46:17.765  INFO 14972 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 14972 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 15:46:17.775 DEBUG 14972 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 15:46:17.778  INFO 14972 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 15:46:22.551  INFO 14972 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter≥ı ºªØ--->
-2018-05-04 15:46:24.368  INFO 14972 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.221 seconds (JVM running for 12.119)
-2018-05-04 15:46:41.622  INFO 14972 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@6703a399
-2018-05-04 15:46:41.683  INFO 14972 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
-2018-05-04 15:50:21.157  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@9184a00, age=[Ljava.lang.String;@718f98b4}
-2018-05-04 15:51:21.777  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@2f35a4b0, age=[Ljava.lang.String;@49a82aba}
-2018-05-04 15:51:22.444  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---k--->name
-2018-05-04 15:51:22.448  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@2f35a4b0
-2018-05-04 15:51:22.451  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---k--->age
-2018-05-04 15:51:22.455  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : <---v--->[Ljava.lang.String;@49a82aba
-2018-05-04 15:51:29.423  INFO 14972 --- [http-nio-8070-exec-4] com.wqf.learn.filter.TestFilter          : -------remoteAddr----0:0:0:0:0:0:0:1
-2018-05-04 16:02:02.373  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------∑√Œ url----/boot/test
-2018-05-04 16:02:05.847  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterName----name
-2018-05-04 16:02:10.414  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterValue----wangqingfan
-2018-05-04 16:02:11.786  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterName----age
-2018-05-04 16:02:14.162  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -------parameterValue----25
-2018-05-04 16:10:57.543  INFO 14972 --- [http-nio-8070-exec-6] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@636fc046, age=[Ljava.lang.String;@4bf9c46}
-2018-05-04 16:12:21.756  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : -------∑√Œ url----/boot/test
-2018-05-04 16:12:21.756  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@760f2aa4, age=[Ljava.lang.String;@78e9dcf}
-2018-05-04 16:12:21.790  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:name---value:[wangqingfan]
-2018-05-04 16:12:21.790  INFO 14972 --- [http-nio-8070-exec-8] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:age---value:[25]
-2018-05-04 16:12:40.921  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : -------∑√Œ url----/boot/test
-2018-05-04 16:12:40.921  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:{name=[Ljava.lang.String;@6c62f450, age=[Ljava.lang.String;@314432ef}
-2018-05-04 16:12:40.930  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:name---value:[wangqingfan]--->
-2018-05-04 16:12:40.930  INFO 14972 --- [http-nio-8070-exec-10] com.wqf.learn.filter.TestFilter          : <---url:/boot/test---name:age---value:[25]--->
-2018-05-04 17:01:02.974  INFO 9772 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 9772 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 17:01:03.000 DEBUG 9772 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 17:01:03.004  INFO 9772 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 17:01:07.966  INFO 9772 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter≥ı ºªØ--->
-2018-05-04 17:01:09.848  INFO 9772 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 8.87 seconds (JVM running for 13.041)
-2018-05-04 17:02:01.202  INFO 9772 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------∑√Œ url----/boot/test/task
-2018-05-04 17:02:01.203  INFO 9772 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@647fee57
-2018-05-04 17:02:01.273  INFO 9772 --- [http-nio-8070-exec-1] c.w.l.c.test.TestTaskExecutorController  : ------------÷˜∑Ω∑®÷¥––----------
-2018-05-04 17:02:11.274  INFO 9772 --- [taskExecutor-1] c.w.l.c.test.TestTaskExecutorController  : -------------“Ï≤Ω÷¥––----------
-2018-05-04 17:02:18.623  INFO 9772 --- [http-nio-8070-exec-2] com.wqf.learn.filter.TestFilter          : -------∑√Œ url----/boot/test/task
-2018-05-04 17:02:18.624  INFO 9772 --- [http-nio-8070-exec-2] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@647fee57
-2018-05-04 17:02:18.721  INFO 9772 --- [http-nio-8070-exec-2] c.w.l.c.test.TestTaskExecutorController  : ------------÷˜∑Ω∑®÷¥––----------
-2018-05-04 17:02:19.723  INFO 9772 --- [taskExecutor-2] c.w.l.c.test.TestTaskExecutorController  : -------------“Ï≤Ω÷¥––----------
-2018-05-04 17:15:09.360  INFO 12460 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on win7-PC with PID 12460 (E:\SpringBoot\spring-boot\spring-boot-web\target\classes started by win7 in E:\SpringBoot\spring-boot\spring-boot-web)
-2018-05-04 17:15:09.377 DEBUG 12460 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
-2018-05-04 17:15:09.380  INFO 12460 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
-2018-05-04 17:15:15.321  INFO 12460 --- [localhost-startStop-1] com.wqf.learn.filter.TestFilter          : <---filter≥ı ºªØ--->
-2018-05-04 17:15:17.876  INFO 12460 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 10.251 seconds (JVM running for 13.758)
-2018-05-04 17:15:24.098  INFO 12460 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -------∑√Œ url----/boot/test/task/sayHello
-2018-05-04 17:15:24.098  INFO 12460 --- [http-nio-8070-exec-1] com.wqf.learn.filter.TestFilter          : -----doFilter-----map:org.apache.catalina.util.ParameterMap@442e82dd
-2018-05-04 17:15:24.213  INFO 12460 --- [http-nio-8070-exec-1] c.w.l.t.c.TestTaskExecutorController     : -------Õ¨≤Ω÷¥––∑Ω∑®Ω· ¯--------
-2018-05-04 17:15:25.271  INFO 12460 --- [taskExecutor-1] c.w.l.t.serveice.AsyncService            : <---“Ï≤Ω÷¥––sayHello--->
+2019-06-29 10:11:28.322  INFO 9464 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 9464 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 10:11:28.328 DEBUG 9464 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 10:11:28.329  INFO 9464 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 10:11:28.378  INFO 9464 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4b213651: startup date [Sat Jun 29 10:11:28 CST 2019]; root of context hierarchy
+2019-06-29 10:11:29.068  INFO 9464 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 10:11:29.269  INFO 9464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 10:11:29.644  INFO 9464 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 10:11:29.912  INFO 9464 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ab58b640] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:11:30.059  INFO 9464 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$f46aec5e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:11:30.783  INFO 9464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 10:11:30.816  INFO 9464 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 10:11:30.816  INFO 9464 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 10:11:30.828  INFO 9464 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 10:11:31.139  INFO 9464 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 10:11:31.139  INFO 9464 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2761 ms
+2019-06-29 10:11:32.134  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 10:11:32.135  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 10:11:32.135  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 10:11:32.135  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 10:11:32.135  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 10:11:32.135  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 10:11:32.136  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 10:11:32.137  INFO 9464 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 10:11:32.935  INFO 9464 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 10:11:32.983  INFO 9464 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 10:11:34.020  INFO 9464 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 10:11:34.021  INFO 9464 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 10:11:39.298  INFO 9464 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 10:11:39.567  INFO 9464 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:11:40.011  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4b213651: startup date [Sat Jun 29 10:11:28 CST 2019]; root of context hierarchy
+2019-06-29 10:11:40.111  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 10:11:40.113  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 10:11:40.113  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 10:11:40.114  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 10:11:40.115  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 10:11:40.115  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 10:11:40.116  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 10:11:40.117  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 10:11:40.118  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 10:11:40.118  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 10:11:40.118  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 10:11:40.119  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:11:40.120  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:11:40.125  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 10:11:40.126  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 10:11:40.126  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 10:11:40.127  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 10:11:40.127  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 10:11:40.128  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 10:11:40.130  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 10:11:40.130  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 10:11:40.135  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:11:40.135  INFO 9464 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 10:11:40.220  INFO 9464 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:11:40.221  INFO 9464 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:11:40.255  INFO 9464 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 10:11:40.981  INFO 9464 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 10:11:40.983  INFO 9464 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 10:11:40.990  INFO 9464 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 10:11:40.998  INFO 9464 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 10:11:41.092  INFO 9464 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 10:11:41.179  INFO 9464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 10:11:41.183  INFO 9464 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 28.492 seconds (JVM running for 34.187)
+2019-06-29 10:14:57.035  INFO 9464 --- [http-nio-8070-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 10:14:57.036  INFO 9464 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 10:14:57.063  INFO 9464 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 27 ms
+2019-06-29 10:14:57.121  INFO 9464 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:14:57.124  INFO 9464 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:16:11.674  INFO 9464 --- [Thread-61] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---destroy----
+2019-06-29 10:16:11.675  INFO 9464 --- [Thread-61] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---destroy----
+2019-06-29 10:16:47.611  INFO 9479 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 9479 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 10:16:47.615 DEBUG 9479 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 10:16:47.616  INFO 9479 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 10:16:47.649  INFO 9479 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@31add175: startup date [Sat Jun 29 10:16:47 CST 2019]; root of context hierarchy
+2019-06-29 10:16:48.141  INFO 9479 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 10:16:48.252  INFO 9479 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 10:16:48.554  INFO 9479 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 10:16:48.764  INFO 9479 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bbd5bb7a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:16:48.896  INFO 9479 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$4e7f198] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:16:49.219  INFO 9479 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 10:16:49.236  INFO 9479 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 10:16:49.236  INFO 9479 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 10:16:49.241  INFO 9479 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 10:16:49.321  INFO 9479 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 10:16:49.322  INFO 9479 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1673 ms
+2019-06-29 10:16:49.844  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 10:16:49.844  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 10:16:49.844  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 10:16:49.844  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 10:16:49.845  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 10:16:49.845  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 10:16:49.845  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 10:16:49.846  INFO 9479 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 10:16:50.303  INFO 9479 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 10:16:50.329  INFO 9479 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 10:16:50.625  INFO 9479 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 10:16:50.626  INFO 9479 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 10:16:55.822  INFO 9479 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 10:16:56.003  INFO 9479 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:16:56.319  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@31add175: startup date [Sat Jun 29 10:16:47 CST 2019]; root of context hierarchy
+2019-06-29 10:16:56.384  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 10:16:56.386  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 10:16:56.386  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 10:16:56.387  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 10:16:56.388  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 10:16:56.388  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 10:16:56.388  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 10:16:56.389  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 10:16:56.390  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 10:16:56.390  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 10:16:56.390  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 10:16:56.391  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:16:56.391  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:16:56.395  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 10:16:56.396  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 10:16:56.396  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 10:16:56.396  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 10:16:56.397  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 10:16:56.397  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 10:16:56.398  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 10:16:56.398  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 10:16:56.400  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:16:56.400  INFO 9479 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 10:16:56.464  INFO 9479 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:16:56.464  INFO 9479 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:16:56.480  INFO 9479 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 10:16:57.009  INFO 9479 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 10:16:57.010  INFO 9479 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 10:16:57.024  INFO 9479 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 10:16:57.035  INFO 9479 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 10:16:57.121  INFO 9479 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 10:16:57.143  INFO 9479 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 10:16:57.148  INFO 9479 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 24.984 seconds (JVM running for 30.723)
+2019-06-29 10:17:03.462  INFO 9479 --- [http-nio-8070-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 10:17:03.463  INFO 9479 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 10:17:03.484  INFO 9479 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 21 ms
+2019-06-29 10:17:03.520  INFO 9479 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:17:03.522  INFO 9479 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:18:12.845  INFO 9479 --- [Thread-53] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---destroy----
+2019-06-29 10:18:12.847  INFO 9479 --- [Thread-53] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---destroy----
+2019-06-29 10:18:48.654  INFO 9488 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 9488 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 10:18:48.657 DEBUG 9488 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 10:18:48.658  INFO 9488 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 10:18:48.695  INFO 9488 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@600b9d27: startup date [Sat Jun 29 10:18:48 CST 2019]; root of context hierarchy
+2019-06-29 10:18:49.192  INFO 9488 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 10:18:49.316  INFO 9488 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 10:18:49.623  INFO 9488 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 10:18:49.800  INFO 9488 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bbd5bb7a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:18:49.910  INFO 9488 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$4e7f198] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:18:50.333  INFO 9488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 10:18:50.463  INFO 9488 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 10:18:50.463  INFO 9488 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 10:18:50.467  INFO 9488 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 10:18:50.598  INFO 9488 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 10:18:50.598  INFO 9488 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1904 ms
+2019-06-29 10:18:51.802  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 10:18:51.805  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 10:18:51.805  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 10:18:51.806  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 10:18:51.806  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 10:18:51.806  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 10:18:51.806  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 10:18:51.809  INFO 9488 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 10:18:52.418  INFO 9488 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 10:18:52.546  INFO 9488 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 10:18:54.080  INFO 9488 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 10:18:54.081  INFO 9488 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 10:18:59.294  INFO 9488 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 10:18:59.667  INFO 9488 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:19:00.207  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@600b9d27: startup date [Sat Jun 29 10:18:48 CST 2019]; root of context hierarchy
+2019-06-29 10:19:00.321  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 10:19:00.323  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 10:19:00.323  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 10:19:00.324  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 10:19:00.325  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 10:19:00.325  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 10:19:00.325  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 10:19:00.327  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 10:19:00.327  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 10:19:00.327  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 10:19:00.327  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 10:19:00.328  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:19:00.329  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:19:00.334  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 10:19:00.334  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 10:19:00.335  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 10:19:00.335  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 10:19:00.335  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 10:19:00.336  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 10:19:00.337  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 10:19:00.338  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 10:19:00.341  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:19:00.342  INFO 9488 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 10:19:00.632  INFO 9488 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:19:00.633  INFO 9488 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:19:00.677  INFO 9488 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 10:19:01.760  INFO 9488 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 10:19:01.762  INFO 9488 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 10:19:01.774  INFO 9488 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 10:19:01.782  INFO 9488 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 10:19:01.899  INFO 9488 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 10:19:01.959  INFO 9488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 10:19:01.968  INFO 9488 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 28.823 seconds (JVM running for 34.498)
+2019-06-29 10:19:25.953  INFO 9488 --- [http-nio-8070-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 10:19:25.954  INFO 9488 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 10:19:25.972  INFO 9488 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 18 ms
+2019-06-29 10:19:26.009  INFO 9488 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:19:26.011  INFO 9488 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:24:42.200  INFO 9488 --- [Thread-61] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---destroy----
+2019-06-29 10:24:42.202  INFO 9488 --- [Thread-61] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---destroy----
+2019-06-29 10:24:48.285  INFO 9729 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 9729 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 10:24:48.289 DEBUG 9729 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 10:24:48.290  INFO 9729 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 10:24:48.446  INFO 9729 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@598bd2ba: startup date [Sat Jun 29 10:24:48 CST 2019]; root of context hierarchy
+2019-06-29 10:24:49.153  INFO 9729 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 10:24:49.292  INFO 9729 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 10:24:49.575  INFO 9729 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 10:24:49.759  INFO 9729 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ac18b4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:24:49.879  INFO 9729 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$50be4ed2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:24:50.187  INFO 9729 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 10:24:50.204  INFO 9729 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 10:24:50.204  INFO 9729 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 10:24:50.208  INFO 9729 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 10:24:50.285  INFO 9729 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 10:24:50.285  INFO 9729 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1840 ms
+2019-06-29 10:24:50.851  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 10:24:50.851  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 10:24:50.851  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 10:24:50.852  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 10:24:50.852  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 10:24:50.852  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 10:24:50.852  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 10:24:50.853  INFO 9729 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 10:24:51.297  INFO 9729 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 10:24:51.322  INFO 9729 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 10:24:51.680  INFO 9729 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 10:24:51.682  INFO 9729 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 10:24:51.871  INFO 9729 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 10:24:52.136  INFO 9729 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:24:52.481  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@598bd2ba: startup date [Sat Jun 29 10:24:48 CST 2019]; root of context hierarchy
+2019-06-29 10:24:52.556  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 10:24:52.558  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 10:24:52.558  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 10:24:52.559  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 10:24:52.560  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 10:24:52.560  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 10:24:52.561  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 10:24:52.562  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 10:24:52.562  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 10:24:52.562  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 10:24:52.563  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 10:24:52.564  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:24:52.564  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:24:52.569  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 10:24:52.570  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 10:24:52.570  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 10:24:52.571  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 10:24:52.571  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 10:24:52.572  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 10:24:52.573  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 10:24:52.573  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 10:24:52.575  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:24:52.576  INFO 9729 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 10:24:52.643  INFO 9729 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:24:52.643  INFO 9729 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:24:52.660  INFO 9729 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 10:24:53.103  INFO 9729 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 10:24:53.104  INFO 9729 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 10:24:53.110  INFO 9729 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 10:24:53.116  INFO 9729 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 10:24:53.217  INFO 9729 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 10:24:53.242  INFO 9729 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 10:24:53.246  INFO 9729 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 5.607 seconds (JVM running for 6.298)
+2019-06-29 10:25:01.125  INFO 9729 --- [http-nio-8070-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 10:25:01.126  INFO 9729 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 10:25:01.153  INFO 9729 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 26 ms
+2019-06-29 10:25:01.224  INFO 9729 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:01.231  INFO 9729 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:04.888  INFO 9729 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:04.888  INFO 9729 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:12.977  INFO 9729 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:12.978  INFO 9729 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:13.148  INFO 9729 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:13.148  INFO 9729 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:13.307  INFO 9729 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:13.308  INFO 9729 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:13.454  INFO 9729 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:13.455  INFO 9729 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:13.599  INFO 9729 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:13.600  INFO 9729 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:13.750  INFO 9729 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:13.750  INFO 9729 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:13.891  INFO 9729 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:13.892  INFO 9729 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:14.042  INFO 9729 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:14.043  INFO 9729 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:25:14.165  INFO 9729 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:25:14.165  INFO 9729 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:09.191  INFO 9729 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:09.192  INFO 9729 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:09.852  INFO 9729 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:09.852  INFO 9729 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:19.410  INFO 9729 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:19.411  INFO 9729 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:21.457  INFO 9729 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:21.458  INFO 9729 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:22.511  INFO 9729 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:22.511  INFO 9729 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:24.320  INFO 9729 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:24.320  INFO 9729 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:26.277  INFO 9729 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:26.279  INFO 9729 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:27.702  INFO 9729 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:27.702  INFO 9729 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:28.793  INFO 9729 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:28.793  INFO 9729 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:29.773  INFO 9729 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:29.773  INFO 9729 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:30.850  INFO 9729 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:30.851  INFO 9729 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:31.944  INFO 9729 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:31.944  INFO 9729 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:32.772  INFO 9729 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:32.773  INFO 9729 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:33.719  INFO 9729 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:33.719  INFO 9729 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:34.678  INFO 9729 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:34.678  INFO 9729 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:35.664  INFO 9729 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:35.664  INFO 9729 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:36.690  INFO 9729 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:36.691  INFO 9729 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:37.514  INFO 9729 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:37.514  INFO 9729 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:38.380  INFO 9729 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:38.380  INFO 9729 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:39.215  INFO 9729 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:39.216  INFO 9729 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:40.037  INFO 9729 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:40.037  INFO 9729 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:40.826  INFO 9729 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:40.826  INFO 9729 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:41.729  INFO 9729 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:41.730  INFO 9729 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:42.542  INFO 9729 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:42.542  INFO 9729 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:26:43.366  INFO 9729 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:26:43.367  INFO 9729 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:27:23.966  INFO 9729 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:27:23.967  INFO 9729 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:27:30.552  INFO 9729 --- [Thread-15] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---destroy----
+2019-06-29 10:28:20.042  INFO 9734 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 9734 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 10:28:20.045 DEBUG 9734 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 10:28:20.046  INFO 9734 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 10:28:20.079  INFO 9734 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@600b9d27: startup date [Sat Jun 29 10:28:20 CST 2019]; root of context hierarchy
+2019-06-29 10:28:20.517  INFO 9734 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 10:28:20.636  INFO 9734 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 10:28:20.899  INFO 9734 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 10:28:21.071  INFO 9734 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4846d3e1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:28:21.181  INFO 9734 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$915909ff] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:28:21.445  INFO 9734 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 10:28:21.462  INFO 9734 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 10:28:21.462  INFO 9734 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 10:28:21.467  INFO 9734 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 10:28:21.544  INFO 9734 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 10:28:21.544  INFO 9734 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1465 ms
+2019-06-29 10:28:22.042  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 10:28:22.043  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 10:28:22.043  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 10:28:22.043  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 10:28:22.043  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 10:28:22.043  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 10:28:22.043  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 10:28:22.044  INFO 9734 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 10:28:22.445  INFO 9734 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 10:29:06.357  INFO 9734 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 10:29:28.401  INFO 9734 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 10:29:28.402  INFO 9734 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 10:29:33.605  INFO 9734 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 10:29:33.781  INFO 9734 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:29:34.116  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@600b9d27: startup date [Sat Jun 29 10:28:20 CST 2019]; root of context hierarchy
+2019-06-29 10:29:34.186  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 10:29:34.187  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 10:29:34.188  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 10:29:34.188  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 10:29:34.189  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 10:29:34.190  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 10:29:34.190  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 10:29:34.191  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 10:29:34.191  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 10:29:34.192  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 10:29:34.192  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 10:29:34.193  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:29:34.193  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:29:34.197  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 10:29:34.198  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 10:29:34.198  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 10:29:34.198  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 10:29:34.198  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 10:29:34.199  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 10:29:34.200  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 10:29:34.200  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 10:29:34.202  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:29:34.203  INFO 9734 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 10:29:34.272  INFO 9734 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:29:34.272  INFO 9734 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:29:34.290  INFO 9734 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 10:29:34.767  INFO 9734 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 10:29:34.768  INFO 9734 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 10:29:34.775  INFO 9734 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 10:29:34.781  INFO 9734 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 10:29:34.860  INFO 9734 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 10:29:34.886  INFO 9734 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 10:29:34.892  INFO 9734 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 90.313 seconds (JVM running for 95.892)
+2019-06-29 10:29:35.982  INFO 9734 --- [http-nio-8070-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 10:29:35.983  INFO 9734 --- [http-nio-8070-exec-2] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 10:29:36.003  INFO 9734 --- [http-nio-8070-exec-2] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 20 ms
+2019-06-29 10:29:36.041  INFO 9734 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:36.043  INFO 9734 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:36.834  INFO 9734 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:36.834  INFO 9734 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:38.471  INFO 9734 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:38.471  INFO 9734 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:39.568  INFO 9734 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:39.568  INFO 9734 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:40.924  INFO 9734 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:40.925  INFO 9734 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:41.825  INFO 9734 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:41.825  INFO 9734 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:42.987  INFO 9734 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:42.987  INFO 9734 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:58.469  INFO 9734 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:58.473  INFO 9734 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:29:59.389  INFO 9734 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:29:59.390  INFO 9734 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:00.152  INFO 9734 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:00.153  INFO 9734 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:00.813  INFO 9734 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:00.813  INFO 9734 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:01.393  INFO 9734 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:01.393  INFO 9734 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:02.006  INFO 9734 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:02.007  INFO 9734 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:02.610  INFO 9734 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:02.610  INFO 9734 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:03.306  INFO 9734 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:03.306  INFO 9734 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:03.877  INFO 9734 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:03.877  INFO 9734 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:04.517  INFO 9734 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:04.519  INFO 9734 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:07.594  INFO 9734 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:07.595  INFO 9734 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:08.335  INFO 9734 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:08.335  INFO 9734 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:08.979  INFO 9734 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:08.979  INFO 9734 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:09.584  INFO 9734 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:09.584  INFO 9734 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:10.174  INFO 9734 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:10.174  INFO 9734 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:10.736  INFO 9734 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:10.739  INFO 9734 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:11.346  INFO 9734 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:11.346  INFO 9734 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:11.887  INFO 9734 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:11.887  INFO 9734 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:12.398  INFO 9734 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:12.398  INFO 9734 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:12.990  INFO 9734 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:12.990  INFO 9734 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:13.531  INFO 9734 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:13.531  INFO 9734 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:14.145  INFO 9734 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:14.145  INFO 9734 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:14.772  INFO 9734 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:14.772  INFO 9734 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:15.337  INFO 9734 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:15.337  INFO 9734 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:15.840  INFO 9734 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:15.840  INFO 9734 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:16.316  INFO 9734 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:16.316  INFO 9734 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:16.914  INFO 9734 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:16.915  INFO 9734 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:17.727  INFO 9734 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:17.727  INFO 9734 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:20.063  INFO 9734 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:20.063  INFO 9734 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:20.998  INFO 9734 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:20.998  INFO 9734 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:21.507  INFO 9734 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:21.507  INFO 9734 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:22.092  INFO 9734 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:22.093  INFO 9734 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:22.540  INFO 9734 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:22.540  INFO 9734 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:23.134  INFO 9734 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:23.135  INFO 9734 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:30:23.736  INFO 9734 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:30:23.736  INFO 9734 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:33:13.267  WARN 9734 --- [redisMessageListenerContainer-669] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 1b8d8e3e-ec50-46ec-93fa-00ed4da49629
+2019-06-29 10:38:57.594  WARN 9734 --- [redisMessageListenerContainer-1720] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 43b7bd39-564b-4c38-9e2a-db4773a163d8
+2019-06-29 10:43:55.302  INFO 9734 --- [Thread-61] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---destroy----
+2019-06-29 10:44:58.193  INFO 9777 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 9777 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 10:44:58.196 DEBUG 9777 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 10:44:58.196  INFO 9777 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 10:44:58.229  INFO 9777 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@600b9d27: startup date [Sat Jun 29 10:44:58 CST 2019]; root of context hierarchy
+2019-06-29 10:44:58.629  INFO 9777 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 10:44:58.737  INFO 9777 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 10:44:58.963  INFO 9777 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 10:44:59.124  INFO 9777 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cd445d31] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:44:59.247  INFO 9777 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$1656934f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 10:44:59.510  INFO 9777 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 10:44:59.527  INFO 9777 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 10:44:59.527  INFO 9777 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 10:44:59.531  INFO 9777 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 10:44:59.596  INFO 9777 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 10:44:59.597  INFO 9777 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1369 ms
+2019-06-29 10:45:00.084  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 10:45:00.085  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 10:45:00.085  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 10:45:00.085  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 10:45:00.085  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 10:45:00.085  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 10:45:00.085  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 10:45:00.086  INFO 9777 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 10:45:00.510  INFO 9777 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 10:46:20.716  INFO 9777 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 10:46:22.103  INFO 9777 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 10:46:22.105  INFO 9777 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 10:46:27.789  INFO 9777 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 10:46:28.085  INFO 9777 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:46:28.613  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@600b9d27: startup date [Sat Jun 29 10:44:58 CST 2019]; root of context hierarchy
+2019-06-29 10:46:28.698  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 10:46:28.700  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 10:46:28.700  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 10:46:28.701  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 10:46:28.703  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 10:46:28.704  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 10:46:28.706  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 10:46:28.708  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 10:46:28.708  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 10:46:28.708  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 10:46:28.709  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 10:46:28.710  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:46:28.710  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:46:28.716  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 10:46:28.717  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 10:46:28.718  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 10:46:28.718  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 10:46:28.719  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 10:46:28.719  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 10:46:28.720  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 10:46:28.720  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 10:46:28.722  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 10:46:28.723  INFO 9777 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 10:46:28.792  INFO 9777 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:46:28.792  INFO 9777 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 10:46:28.808  INFO 9777 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 10:46:29.643  INFO 9777 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 10:46:29.645  INFO 9777 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 10:46:29.656  INFO 9777 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 10:46:29.668  INFO 9777 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 10:46:29.799  INFO 9777 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 10:46:29.844  INFO 9777 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 10:46:29.852  INFO 9777 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 107.088 seconds (JVM running for 112.879)
+2019-06-29 10:46:42.851  INFO 9777 --- [http-nio-8070-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 10:46:42.853  INFO 9777 --- [http-nio-8070-exec-2] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 10:46:42.880  INFO 9777 --- [http-nio-8070-exec-2] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 26 ms
+2019-06-29 10:46:42.935  INFO 9777 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:42.938  INFO 9777 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:45.995  INFO 9777 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:45.995  INFO 9777 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:46.460  INFO 9777 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:46.460  INFO 9777 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:47.053  INFO 9777 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:47.053  INFO 9777 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:47.330  INFO 9777 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:47.330  INFO 9777 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:47.693  INFO 9777 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:47.694  INFO 9777 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:48.042  INFO 9777 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:48.042  INFO 9777 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:48.367  INFO 9777 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:48.368  INFO 9777 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:48.714  INFO 9777 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:48.715  INFO 9777 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:49.066  INFO 9777 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:49.066  INFO 9777 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:49.414  INFO 9777 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:49.414  INFO 9777 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:49.767  INFO 9777 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:49.767  INFO 9777 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:46:52.016  INFO 9777 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 10:46:52.016  INFO 9777 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 10:50:50.230  WARN 9777 --- [redisMessageListenerContainer-814] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 1d0b647c-30c3-4690-a9c6-990e76071e01
+2019-06-29 11:12:57.816  WARN 9777 --- [redisMessageListenerContainer-4961] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 086cd881-a278-4fa4-bafb-10a36b4f0356
+2019-06-29 11:36:48.348  WARN 9777 --- [redisMessageListenerContainer-9409] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session e72c0699-8347-4d00-90a9-4688104278a4
+2019-06-29 11:45:21.297  WARN 9777 --- [redisMessageListenerContainer-11151] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session a9f30a12-8196-47b0-bf49-202f8bb8fe93
+2019-06-29 11:45:27.544  WARN 9777 --- [redisMessageListenerContainer-11155] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 3012b7de-2ba4-4495-8b28-e3dd9eb68be9
+2019-06-29 12:37:54.877 ERROR 9777 --- [pool-3-thread-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task.
+
+org.springframework.data.redis.RedisSystemException: Redis exception; nested exception is io.lettuce.core.RedisException: java.io.IOException: Operation timed out
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:74) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:257) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.convertLettuceAccessException(LettuceSetCommands.java:520) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:245) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.sMembers(DefaultedRedisConnection.java:550) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.lambda$members$6(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.members(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultBoundSetOperations.members(DefaultBoundSetOperations.java:152) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.session.data.redis.RedisSessionExpirationPolicy.cleanExpiredSessions(RedisSessionExpirationPolicy.java:132) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.RedisOperationsSessionRepository.cleanupExpiredSessions(RedisOperationsSessionRepository.java:393) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration.lambda$configureTasks$0(RedisHttpSessionConfiguration.java:242) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93) [spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+Caused by: io.lettuce.core.RedisException: java.io.IOException: Operation timed out
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:125) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:62) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at com.sun.proxy.$Proxy95.smembers(Unknown Source) ~[na:na]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:243) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	... 20 common frames omitted
+Caused by: java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[na:1.8.0_201]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[na:1.8.0_201]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[na:1.8.0_201]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[na:1.8.0_201]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[na:1.8.0_201]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-buffer-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1108) ~[netty-buffer-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:345) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:886) ~[netty-common-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.23.Final.jar:4.1.23.Final]
+	... 1 common frames omitted
+
+2019-06-29 12:37:54.958  INFO 9777 --- [lettuce-eventExecutorLoop-1-3] i.l.core.protocol.ConnectionWatchdog     : Reconnecting, last destination was /10.111.10.241:6379
+2019-06-29 12:37:55.074  INFO 9777 --- [lettuce-nioEventLoop-4-3] i.l.core.protocol.ReconnectionHandler    : Reconnected to 10.111.10.241:6379
+2019-06-29 12:59:07.507 ERROR 9777 --- [pool-3-thread-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task.
+
+org.springframework.dao.QueryTimeoutException: Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:70) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:257) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.convertLettuceAccessException(LettuceSetCommands.java:520) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:245) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.sMembers(DefaultedRedisConnection.java:550) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.lambda$members$6(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.members(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultBoundSetOperations.members(DefaultBoundSetOperations.java:152) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.session.data.redis.RedisSessionExpirationPolicy.cleanExpiredSessions(RedisSessionExpirationPolicy.java:132) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.RedisOperationsSessionRepository.cleanupExpiredSessions(RedisOperationsSessionRepository.java:393) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration.lambda$configureTasks$0(RedisHttpSessionConfiguration.java:242) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93) [spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+Caused by: io.lettuce.core.RedisCommandTimeoutException: Command timed out
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:114) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:62) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at com.sun.proxy.$Proxy95.smembers(Unknown Source) ~[na:na]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:243) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	... 20 common frames omitted
+
+2019-06-29 13:00:11.474  INFO 9777 --- [lettuce-eventExecutorLoop-1-4] i.l.core.protocol.ConnectionWatchdog     : Reconnecting, last destination was /10.111.10.241:6379
+2019-06-29 13:00:11.483  INFO 9777 --- [lettuce-nioEventLoop-4-4] i.l.core.protocol.ReconnectionHandler    : Reconnected to 10.111.10.241:6379
+2019-06-29 13:31:59.677 ERROR 9777 --- [pool-3-thread-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task.
+
+org.springframework.data.redis.RedisSystemException: Redis exception; nested exception is io.lettuce.core.RedisException: java.io.IOException: Operation timed out
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:74) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:257) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.convertLettuceAccessException(LettuceSetCommands.java:520) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:245) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.sMembers(DefaultedRedisConnection.java:550) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.lambda$members$6(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.members(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultBoundSetOperations.members(DefaultBoundSetOperations.java:152) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.session.data.redis.RedisSessionExpirationPolicy.cleanExpiredSessions(RedisSessionExpirationPolicy.java:132) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.RedisOperationsSessionRepository.cleanupExpiredSessions(RedisOperationsSessionRepository.java:393) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration.lambda$configureTasks$0(RedisHttpSessionConfiguration.java:242) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93) [spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+Caused by: io.lettuce.core.RedisException: java.io.IOException: Operation timed out
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:125) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:62) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at com.sun.proxy.$Proxy95.smembers(Unknown Source) ~[na:na]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:243) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	... 20 common frames omitted
+Caused by: java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[na:1.8.0_201]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[na:1.8.0_201]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[na:1.8.0_201]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[na:1.8.0_201]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[na:1.8.0_201]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-buffer-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1108) ~[netty-buffer-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:345) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:886) ~[netty-common-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.23.Final.jar:4.1.23.Final]
+	... 1 common frames omitted
+
+2019-06-29 13:31:59.716  INFO 9777 --- [lettuce-eventExecutorLoop-1-1] i.l.core.protocol.ConnectionWatchdog     : Reconnecting, last destination was /10.111.10.241:6379
+2019-06-29 13:31:59.733  INFO 9777 --- [lettuce-nioEventLoop-4-1] i.l.core.protocol.ReconnectionHandler    : Reconnected to 10.111.10.241:6379
+2019-06-29 14:19:31.414 ERROR 9777 --- [pool-3-thread-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task.
+
+org.springframework.data.redis.RedisSystemException: Redis exception; nested exception is io.lettuce.core.RedisException: java.io.IOException: Operation timed out
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:74) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:257) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.convertLettuceAccessException(LettuceSetCommands.java:520) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:245) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.sMembers(DefaultedRedisConnection.java:550) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.lambda$members$6(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.members(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultBoundSetOperations.members(DefaultBoundSetOperations.java:152) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.session.data.redis.RedisSessionExpirationPolicy.cleanExpiredSessions(RedisSessionExpirationPolicy.java:132) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.RedisOperationsSessionRepository.cleanupExpiredSessions(RedisOperationsSessionRepository.java:393) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration.lambda$configureTasks$0(RedisHttpSessionConfiguration.java:242) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93) [spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+Caused by: io.lettuce.core.RedisException: java.io.IOException: Operation timed out
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:125) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:62) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at com.sun.proxy.$Proxy95.smembers(Unknown Source) ~[na:na]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:243) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	... 20 common frames omitted
+Caused by: java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[na:1.8.0_201]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[na:1.8.0_201]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[na:1.8.0_201]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[na:1.8.0_201]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[na:1.8.0_201]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-buffer-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1108) ~[netty-buffer-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:345) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) ~[netty-transport-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:886) ~[netty-common-4.1.23.Final.jar:4.1.23.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.23.Final.jar:4.1.23.Final]
+	... 1 common frames omitted
+
+2019-06-29 14:19:31.423  INFO 9777 --- [lettuce-eventExecutorLoop-1-2] i.l.core.protocol.ConnectionWatchdog     : Reconnecting, last destination was /10.111.10.241:6379
+2019-06-29 14:19:31.439  INFO 9777 --- [lettuce-nioEventLoop-4-2] i.l.core.protocol.ReconnectionHandler    : Reconnected to 10.111.10.241:6379
+2019-06-29 14:31:52.156  INFO 9777 --- [lettuce-eventExecutorLoop-1-3] i.l.core.protocol.ConnectionWatchdog     : Reconnecting, last destination was /10.111.10.241:6379
+2019-06-29 14:31:52.279  INFO 9777 --- [lettuce-nioEventLoop-4-3] i.l.core.protocol.ReconnectionHandler    : Reconnected to 10.111.10.241:6379
+2019-06-29 14:32:55.788  INFO 11262 --- [main] com.wqf.learn.BootApplication            : Starting BootApplication on wangqqingfan-deMacBook-Air.local with PID 11262 (/Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web/target/classes started by sspp in /Users/sspp/IdeaProjects/MySpringBoot/spring-boot/spring-boot-web)
+2019-06-29 14:32:55.792 DEBUG 11262 --- [main] com.wqf.learn.BootApplication            : Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-06-29 14:32:55.793  INFO 11262 --- [main] com.wqf.learn.BootApplication            : No active profile set, falling back to default profiles: default
+2019-06-29 14:32:55.857  INFO 11262 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@39a2bb97: startup date [Sat Jun 29 14:32:55 CST 2019]; root of context hierarchy
+2019-06-29 14:32:56.970  INFO 11262 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'filterRegistrationBean' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=filterConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/configuration/FilterConfig.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=duridConfig; factoryMethodName=filterRegistrationBean; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/wqf/learn/druid/DuridConfig.class]]
+2019-06-29 14:32:57.390  INFO 11262 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-29 14:32:58.163  INFO 11262 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-06-29 14:32:58.478  INFO 11262 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b3849fc9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 14:32:58.705  INFO 11262 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$fc96d5e7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-29 14:32:59.310  INFO 11262 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8070 (http)
+2019-06-29 14:32:59.334  INFO 11262 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-29 14:32:59.335  INFO 11262 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2019-06-29 14:32:59.340  INFO 11262 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sspp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-06-29 14:32:59.472  INFO 11262 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-29 14:32:59.473  INFO 11262 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3616 ms
+2019-06-29 14:33:00.411  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-06-29 14:33:00.412  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-06-29 14:33:00.412  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-06-29 14:33:00.412  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-06-29 14:33:00.412  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-06-29 14:33:00.412  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2019-06-29 14:33:00.413  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet statViewServlet mapped to [/druid/*]
+2019-06-29 14:33:00.414  INFO 11262 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-06-29 14:33:01.118  INFO 11262 --- [main] c.w.l.d.service.impl.NotifyServiceImpl   : ------disruptor---Âçïconsumer---afterPropertiesSet----
+2019-06-29 14:33:04.728  INFO 11262 --- [main] c.w.l.d.s.impl.MultiNotifyServiceImpl    : ------disruptor---Â§öconsumer---afterPropertiesSet----
+2019-06-29 14:33:05.929  INFO 11262 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-06-29 14:33:05.931  INFO 11262 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-06-29 14:33:11.494  INFO 11262 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService  'taskExecutor'
+2019-06-29 14:33:11.981  INFO 11262 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 14:33:12.929  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@39a2bb97: startup date [Sat Jun 29 14:32:55 CST 2019]; root of context hierarchy
+2019-06-29 14:33:13.058  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/cache],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.CacheController.get(java.lang.Integer)
+2019-06-29 14:33:13.059  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.msg(java.lang.String)
+2019-06-29 14:33:13.060  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/disruptor/multi/{msg}],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.DisruptorController.multiMsg(java.lang.String)
+2019-06-29 14:33:13.061  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/jdbc],methods=[GET]}" onto public java.util.List<java.util.Map<java.lang.String, java.lang.Object>> com.wqf.learn.controller.test.JdbcController.getAdminInfo()
+2019-06-29 14:33:13.063  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findById],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findById(java.lang.Integer)
+2019-06-29 14:33:13.063  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis/findBy],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findBy(java.lang.Integer,java.lang.String)
+2019-06-29 14:33:13.063  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/mybatis],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.MyBatisController.findAdmin()
+2019-06-29 14:33:13.065  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.get(java.lang.String)
+2019-06-29 14:33:13.065  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/getDomain],methods=[GET]}" onto public java.lang.Object com.wqf.learn.controller.test.RedisController.getDomain()
+2019-06-29 14:33:13.065  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/setDomain],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.setDomain()
+2019-06-29 14:33:13.066  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/redis/pushMessage],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisController.pushMessage(java.lang.String,java.lang.String)
+2019-06-29 14:33:13.067  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.get(javax.servlet.http.HttpServletRequest)
+2019-06-29 14:33:13.067  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/redisHttpSession/set],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.RedisHttpSessionController.set(javax.servlet.http.HttpServletRequest)
+2019-06-29 14:33:13.072  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[PUT]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.put(java.lang.String,java.lang.String)
+2019-06-29 14:33:13.072  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.test()
+2019-06-29 14:33:13.073  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/configuration],methods=[GET]}" onto public com.wqf.learn.configuration.MyTestConfig com.wqf.learn.controller.test.TestController.configuration()
+2019-06-29 14:33:13.073  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/testNull],methods=[GET]}" onto public java.lang.String com.wqf.learn.controller.test.TestController.testNull()
+2019-06-29 14:33:13.073  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/lombok],methods=[GET]}" onto public com.wqf.learn.lombok.TestLombok com.wqf.learn.controller.test.TestController.lombok()
+2019-06-29 14:33:13.074  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/retry],methods=[GET]}" onto public java.lang.String com.wqf.learn.retry.controller.RetryController.get()
+2019-06-29 14:33:13.075  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.get()
+2019-06-29 14:33:13.076  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/test/task/sayHello],methods=[GET]}" onto public java.lang.String com.wqf.learn.taskexecutor.controller.TestTaskExecutorController.sayHello()
+2019-06-29 14:33:13.080  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-06-29 14:33:13.081  INFO 11262 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-06-29 14:33:13.156  INFO 11262 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 14:33:13.156  INFO 11262 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-06-29 14:33:13.176  INFO 11262 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in exceptionHandlerAdvice
+2019-06-29 14:33:14.111  INFO 11262 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-06-29 14:33:14.114  INFO 11262 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2019-06-29 14:33:14.125  INFO 11262 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2019-06-29 14:33:14.139  INFO 11262 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2019-06-29 14:33:15.432  INFO 11262 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-06-29 14:33:15.494  INFO 11262 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8070 (http) with context path '/boot'
+2019-06-29 14:33:15.503  INFO 11262 --- [main] com.wqf.learn.BootApplication            : Started BootApplication in 36.042 seconds (JVM running for 42.463)
+2019-06-29 14:37:18.812  INFO 11262 --- [http-nio-8070-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-06-29 14:37:18.814  INFO 11262 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-06-29 14:37:18.857  INFO 11262 --- [http-nio-8070-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 42 ms
+2019-06-29 14:37:18.934  INFO 11262 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:37:18.938  INFO 11262 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:37:32.037  INFO 11262 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:37:32.037  INFO 11262 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:44:12.098  INFO 11262 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:44:12.100  INFO 11262 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:44:30.977  INFO 11262 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:44:30.978  INFO 11262 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:45:10.252  INFO 11262 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:45:10.254  INFO 11262 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:05.239  INFO 11262 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:05.239  INFO 11262 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:05.382  INFO 11262 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:05.382  INFO 11262 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:05.549  INFO 11262 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:05.550  INFO 11262 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:05.713  INFO 11262 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:05.714  INFO 11262 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:05.883  INFO 11262 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:05.883  INFO 11262 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.045  INFO 11262 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.045  INFO 11262 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.219  INFO 11262 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.219  INFO 11262 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.351  INFO 11262 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.352  INFO 11262 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.516  INFO 11262 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.516  INFO 11262 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.665  INFO 11262 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.665  INFO 11262 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.829  INFO 11262 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.830  INFO 11262 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:06.989  INFO 11262 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:06.990  INFO 11262 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:07.119  INFO 11262 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:07.120  INFO 11262 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:07.288  INFO 11262 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:07.288  INFO 11262 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:07.447  INFO 11262 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:07.447  INFO 11262 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:07.611  INFO 11262 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:07.611  INFO 11262 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:07.770  INFO 11262 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:07.770  INFO 11262 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:07.925  INFO 11262 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:07.926  INFO 11262 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:08.077  INFO 11262 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:08.078  INFO 11262 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:08.233  INFO 11262 --- [http-nio-8070-exec-1] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:08.233  INFO 11262 --- [http-nio-8070-exec-1] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:08.393  INFO 11262 --- [http-nio-8070-exec-2] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:08.393  INFO 11262 --- [http-nio-8070-exec-2] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:08.571  INFO 11262 --- [http-nio-8070-exec-3] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:08.571  INFO 11262 --- [http-nio-8070-exec-3] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:08.741  INFO 11262 --- [http-nio-8070-exec-4] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:08.742  INFO 11262 --- [http-nio-8070-exec-4] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:08.888  INFO 11262 --- [http-nio-8070-exec-5] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:08.888  INFO 11262 --- [http-nio-8070-exec-5] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:09.058  INFO 11262 --- [http-nio-8070-exec-6] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:09.058  INFO 11262 --- [http-nio-8070-exec-6] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:09.203  INFO 11262 --- [http-nio-8070-exec-7] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:09.203  INFO 11262 --- [http-nio-8070-exec-7] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:09.364  INFO 11262 --- [http-nio-8070-exec-8] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:09.365  INFO 11262 --- [http-nio-8070-exec-8] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:09.522  INFO 11262 --- [http-nio-8070-exec-10] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:09.522  INFO 11262 --- [http-nio-8070-exec-10] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:46:09.685  INFO 11262 --- [http-nio-8070-exec-9] com.wqf.learn.aop.HelloAop               : <--------------Aop------------------->
+2019-06-29 14:46:09.685  INFO 11262 --- [http-nio-8070-exec-9] c.w.l.c.test.DisruptorController         : disruptor---msgÔºöceshi
+2019-06-29 14:52:11.082  WARN 11262 --- [redisMessageListenerContainer-3613] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 684ae76a-cd8e-407a-992b-5cc23c38c537
+2019-06-29 15:00:07.188  WARN 11262 --- [redisMessageListenerContainer-5082] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session c75e8762-bac5-416a-8619-a9a880501524
+2019-06-29 15:06:16.466  WARN 11262 --- [redisMessageListenerContainer-6190] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 6dd7c424-66e9-4c9e-a8bb-42f1f60faa5d
+2019-06-29 15:16:23.534  WARN 11262 --- [redisMessageListenerContainer-8119] s.s.d.r.RedisOperationsSessionRepository : Unable to publish SessionDestroyedEvent for session 407799df-3de2-40bc-97d3-167ed2f63bea
+2019-06-29 15:35:03.138 ERROR 11262 --- [pool-3-thread-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task.
+
+org.springframework.dao.QueryTimeoutException: Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:70) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:257) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.convertLettuceAccessException(LettuceSetCommands.java:520) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:245) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.sMembers(DefaultedRedisConnection.java:550) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.lambda$members$6(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultSetOperations.members(DefaultSetOperations.java:158) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.data.redis.core.DefaultBoundSetOperations.members(DefaultBoundSetOperations.java:152) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	at org.springframework.session.data.redis.RedisSessionExpirationPolicy.cleanExpiredSessions(RedisSessionExpirationPolicy.java:132) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.RedisOperationsSessionRepository.cleanupExpiredSessions(RedisOperationsSessionRepository.java:393) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration.lambda$configureTasks$0(RedisHttpSessionConfiguration.java:242) ~[spring-session-data-redis-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93) [spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:266) [na:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_201]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+Caused by: io.lettuce.core.RedisCommandTimeoutException: Command timed out
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:114) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:62) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80) ~[lettuce-core-5.0.3.RELEASE.jar:na]
+	at com.sun.proxy.$Proxy95.smembers(Unknown Source) ~[na:na]
+	at org.springframework.data.redis.connection.lettuce.LettuceSetCommands.sMembers(LettuceSetCommands.java:243) ~[spring-data-redis-2.0.6.RELEASE.jar:2.0.6.RELEASE]
+	... 20 common frames omitted
+
+2019-06-29 15:35:42.163  INFO 11262 --- [lettuce-eventExecutorLoop-1-3] i.l.core.protocol.ConnectionWatchdog     : Reconnecting, last destination was /10.111.10.241:6379
+2019-06-29 15:35:43.236  INFO 11262 --- [lettuce-nioEventLoop-4-3] i.l.core.protocol.ReconnectionHandler    : Reconnected to 10.111.10.241:6379
